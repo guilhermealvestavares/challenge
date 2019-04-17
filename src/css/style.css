@@ -91,6 +91,51 @@ html, body {
     font-size:36px;
 }
 
+
+.flex{
+  display:flex;
+}
+
+.flex--flexend{
+  justify-content: flex-end;
+}
+
+.bloco-buy{
+  margin-right:15px;
+}
+
+.box-buy{
+  width:320px;
+  height:400px;
+  background-color:red;
+  position: relative;
+  display:none;
+}
+
+
+.box-buy::before {
+  content: '';
+  width: 0; 
+  height: 0; 
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  border-bottom: 20px solid #fc0;
+  margin-top:-20px;
+  margin-left:260px;
+  position: absolute;
+}
+
+.arrow-up {
+
+}
+
+.ativo{
+  display:block;
+}
+
+
+
+
 @media (max-width: 768px) {
     .menu-button-container {
       display: flex;
@@ -144,8 +189,8 @@ html, body {
     }
 
     .logo-agency{
-       width:60%;
-       height:60%;
+       width:80%;
+       height:80%;
         
     }
 
@@ -153,4 +198,13 @@ html, body {
         display:flex;
         justify-content: center;
     }
+
+    .icons{
+      padding-right:0px; 
+    }
+
+    #menu-toggle{
+      width:100%;
+    }
+
   }
