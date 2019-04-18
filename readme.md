@@ -2,37 +2,22 @@
 
 # E-Plus Frontend Challenge
 
-Seja bem-vindo ao E-Plus Front-end Challenge, considere este o primeiro passo para fazer parte de uma das melhores equipes de ecommerce e marketing digital do Brasil!
+##### Repositório criado para desenvolver layout proposto pela Eplus.
+##### Neste projeto foram usados as teconologias: HTML, CSS (sem pré-processador), JS e jQuery.
 
-Para completar o desafio com sucesso você precisará codificar o layout que segue no projeto, para isso será necessário consumir um json via xhttp que retornará uma lista de produtos na resposta do request e servirá para alimentar/manipular o mini-cart.
 
-Então mãos a obra e bom challenge ;)
+## Como utilizar:
+    1. Execute o arquivo index.html
 
-## Design
+## Descrição
+ - Para este projeto, usei muuito display flex para deixar as coisas alinhadinhas e ter controle sobre tudo. Usei o menu hamburguer na esquerda para não mudar a disposição
+ dos elementos no menu e acabar confundindo o usuário. Consegui cumprir os quesitos propostos e aprendi diversas coisas com este teste. Espero ter o layout escolhido :)
+ 
+ Tentei ser o mais fiel possível ao layout, com fontes, ícones e cores totalmente fieis ao layout proposto.
+ 
+ Obrigado!
+ 
 
-- O topo apresentado deve seguir o [seguinte design](https://projects.invisionapp.com/share/NARHXUS6HCF#/357617423_Eplus)
-- Baseado neste layout, faça uma adaptação responsiva para celulares.
 
-## Como realizar o teste
+       
 
-- Faça um fork deste repositório em seu GitHub
-- Adicione ao Readme uma descrição de como executar seu projeto
-- Descreva as funcionalidades do seu desafio, nos conte tudo que fez! Se fez o desafio utilizando pré-processadores, por exemplo, pois usaremos estas informações para avaliá-lo. 
-- O ideal é que este challenge leve até 8h.
-- Faça commits parciais, para que possamos acompanhar o seu desenvolvimento.
-- Em caso de dúvidas, entre em contato com rodrigo.freitas@agenciaeplus.com.br ou nadia@agenciaeplus.com.br
-
-## Dicas
-
-- Os ícones usados, são todos do Material Design. https://material.io/icons/
-- A fonte utilizada é Montserrat (Está fonte se encontra no google fonts). 
-- Trabalhamos com clientes perfeccionistas, portanto tenha atenção com espaçamentos, tamanhos e estilos de fonte. 
-
-## Critérios de avaliação
-
-- Alcançar os objetivos propostos
-- Qualidade de código
-- Commits parciais, mostrando a linha de desenvolvimento
-- Boa descrição das funcionalidades do desafio
-- Fidelidade ao design proposto
-- Adaptação mobile
