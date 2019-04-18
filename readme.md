@@ -13,6 +13,8 @@
  - Para este projeto, usei muuito display flex para deixar as coisas alinhadinhas e ter controle sobre tudo. Usei o menu hamburguer na esquerda para não mudar a disposição
  dos elementos no menu e acabar confundindo o usuário. Consegui cumprir os quesitos propostos e aprendi diversas coisas com este teste. Espero ter o layout escolhido :)
  
+ Como é uma coisa simples, não achei necessário a utilização de pré-processador.. Acredito que algo 'clique aqui e execute' seja muito mais eficaz para isso. Tks!
+ 
  Tentei ser o mais fiel possível ao layout, com fontes, ícones e cores totalmente fieis ao layout proposto.
  
  Obrigado!
